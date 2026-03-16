@@ -1,0 +1,23 @@
+# Python
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual Environment
+embedding_benchmarker_venv/
+venv/
+.env/
+
+# Data (large files)
+data/page_images/
+data/extracted_text/
+data/documents/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
