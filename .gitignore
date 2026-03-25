@@ -30,4 +30,3 @@ llama.cpp/
 
 #temp
 notebooks/qa_pair_generation.ipynb
-notebooks/chunker.ipynb
