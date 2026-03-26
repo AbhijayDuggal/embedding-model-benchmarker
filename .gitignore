@@ -15,6 +15,7 @@ data/page_images/
 data/extracted_text/
 data/documents/
 data/chunks/
+data/qa_pairs
 
 # OS files
 .DS_Store
