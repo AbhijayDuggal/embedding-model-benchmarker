@@ -15,7 +15,8 @@ data/page_images/
 data/extracted_text/
 data/documents/
 data/chunks/
-data/qa_pairs
+data/qa_pairs/
+data/embeddings/
 
 # OS files
 .DS_Store
@@ -28,5 +29,7 @@ Thumbs.db
 models/
 llama.cpp/
 
+#Temp
+notebooks/embedder_Llama.ipynb
 
 
